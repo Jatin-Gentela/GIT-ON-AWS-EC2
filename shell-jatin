@@ -14,3 +14,4 @@ fi
 for course in aws devops linux git; do
 echo ${course}
 done
+echo ${1}
