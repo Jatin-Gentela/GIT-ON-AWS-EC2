@@ -10,3 +10,4 @@ if [[  5 -gt 2  ]]; then
 else
  echo "Your condition in the bash script is not true. Fix your code"
 fi
+#Lets think this is a commit from another developer or they merged branches
