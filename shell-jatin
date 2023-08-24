@@ -14,3 +14,7 @@ fi
 for course in aws devops linux git; do
 echo ${course}
 done
+##############################################################################
+#passing arguments
+echo ${1}
+echo ${2}
